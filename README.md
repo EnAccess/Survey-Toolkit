@@ -14,9 +14,9 @@ The Survey Toolkit, created by Devergy based on their own experience and challen
 
 Survey Tool Kit published in the Github provides following documents, to help organisations and companies to use this solution:
 
-**1. How to guide:** Step by Step process with screen shot of every step to design survey forms using Epicollect5 web platform, downloading of these survey forms on Epicollect5 mobile application, data collection in the field, data syncing, importing of this data into google sheets including media files to google drive using google script and visualisation of the data in google map.
+**1. [How to guide](https://github.com/EnAccess/Survey-Toolkit/tree/main/How%20To%20Guide):** Step by Step process with screen shot of every step to design survey forms using Epicollect5 web platform, downloading of these survey forms on Epicollect5 mobile application, data collection in the field, data syncing, importing of this data into google sheets including media files to google drive using google script and visualisation of the data in google map.
 
 **2. Video Guide:** A video tutorial is also provided on how to use this survey tool kit for designing survey forms, downloading forms on mobile application, data collection and data syncing from the field, importing of the data and media files into google sheet and google drive by running a google script and visualisation of geo-tagging data on the google map.
 
-**3. Google script:** Google script to import data into google sheet and media files into google drive.
+**3. [Google script](https://github.com/EnAccess/Survey-Toolkit/blob/main/Epicollect_5-Sheets_Integration.gs):** Google script to import data into google sheet and media files into google drive.
 
