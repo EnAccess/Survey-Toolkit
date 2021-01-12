@@ -1,6 +1,6 @@
 # Devergy Survey Tool Kit
-### This project is supported by [EnAccess Foundation](https://enaccess.org/)
-### Survey design is created using [Epicollect5] (https://five.epicollect.net/)
+### This project is supported by EnAccess Foundation (https://enaccess.org/)
+### Survey design is created using Epicollect5 (https://five.epicollect.net/)
 
  > **NOTE**
 > *If you have pulled or downloaded this tool from EnAccess foundation before 12th Jan 2021, please make sure to update the latest version of google script and how to use guide to see new data importing features*..
