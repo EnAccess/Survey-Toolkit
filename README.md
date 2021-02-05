@@ -1,8 +1,8 @@
-# Devergy Survey Tool Kit
-### This project is supported by EnAccess Foundation (https://enaccess.org/)
-### Survey design is created using Epicollect5 (https://five.epicollect.net/)
+# Devergy Survey Toolkit
+### This project is supported by the EnAccess Foundation (https://enaccess.org/)
+We can keep supporting Open Source Energy Access thanks to the evidence that people value these materials. Knowing why you’re here will make a huge difference in keeping us going. [It takes just 30 seconds, tell us more](https://us7.list-manage.com/survey?u=30c9abe0a5c18a9bfc966f2ff&id=6093f36d44).
 
- > **NOTE**
+ > **Update**
 > *If you have pulled or downloaded this tool from EnAccess foundation before 12th Jan 2021, please make sure to update the latest version of google script and how to use guide to see new data importing features*..
 ..
 ## **Background**
@@ -10,9 +10,9 @@ Energy access organizations do a lot of surveys to understand the potential cust
 
 While well-funded companies might contract 3rd party service providers to create both market and business intelligence on their behalf, early-stage companies usually can’t afford it. This leads to young organizations to build internal capacity for surveying the communities that they will be serving. 
 
-The Survey Toolkit, created by Devergy based on their own experience and challenges faced, provides a simple approach to collecting, analyzing, and presenting field survey data.
+The Survey Toolkit, created by Devergy based on their own experience and challenges faced, provides a simple approach to collecting, analyzing, and presenting field survey data. The Survey design is created using [Epicollect5](https://five.epicollect.net/).
 
-Survey Tool Kit published in the Github provides following documents, to help organisations and companies to use this solution:
+Survey Toolkit published in Github provides following documents, to help organisations and companies to use this solution:
 
 **1. [How to guide](https://github.com/EnAccess/Survey-Toolkit/tree/main/How%20To%20Guide):** Step by Step process with screen shot of every step to design survey forms using Epicollect5 web platform, downloading of these survey forms on Epicollect5 mobile application, data collection in the field, data syncing, importing of this data into google sheets including media files to google drive using google script and visualisation of the data in google map.
 
