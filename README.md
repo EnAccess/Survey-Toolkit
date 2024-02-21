@@ -2,8 +2,8 @@
 ### This project is supported by the EnAccess Foundation (https://enaccess.org/)
 We can keep supporting Open Source Energy Access thanks to the evidence that people value these materials. Knowing why you’re here will make a huge difference in keeping us going. [It takes just 30 seconds, tell us more](https://us7.list-manage.com/survey?u=30c9abe0a5c18a9bfc966f2ff&id=6093f36d44).
 
-> **Update**
-> *If you have pulled or downloaded this tool from EnAccess foundation before 12th Jan 2021, please make sure to update the latest version of google script and how to use guide to see new data importing features*.
+> [!WARNING]
+> If you have pulled or downloaded this tool from EnAccess foundation before 12th Jan 2021, please make sure to update the latest version of google script and how to use guide to see new data importing features.
 
 ## **Background**
 Energy access organizations do a lot of surveys to understand the potential customers, sites, and marketplaces. They often struggle to find platforms that can help in managing the data collected through different surveys. There is an initial question of what data platform to use, and later questions of: how to train staff on a given platform; how to integrate the platform into everyday operations and systems.How to ensure that the platform is kept up to date. We’ve noticed teams try out a tool or method for a few weeks or months before running into some kind of snag: pencil and paper surveys are hard to scale; a handful of apps are just short of perfect, and custom or enterprise-grade platforms can be costly.
